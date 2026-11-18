@@ -20,7 +20,9 @@ jobs:
         uses: actions/setup-java@v4
         with:
           distribution: temurin
-          java-version: '17'
+          java-version: 
+c.drawArc(cx-shoulder*.30f,top-16,cx+shoulder*.30f,top+42,0,180,false,p);p
+
 
       - name: Setup Gradle
         uses: gradle/actions/setup-gradle@v4
